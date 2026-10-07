@@ -1,0 +1,23 @@
+body {
+    background-color: #f8f9fa;
+}
+
+.card {
+    border-radius: 10px;
+}
+
+.table {
+    vertical-align: middle;
+}
+
+.btn {
+    border-radius: 6px;
+}
+
+.navbar-brand {
+    font-weight: 500;
+}
+
+.page-title {
+    font-weight: 600;
+}
